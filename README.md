@@ -10,5 +10,5 @@ Decided to teach my 8yo to code with PyGame Zero and learn a bit about game deve
   if you miss, you can start it over again.
   
   * Coin Collector  
-  Help a crafty fox collect as many coins as
+  Help a crafty fox collect as many coins as  
   possible before time runs out.
